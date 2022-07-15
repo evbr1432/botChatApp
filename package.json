@@ -1,0 +1,31 @@
+{
+  "name": "bot-chat-app",
+  "version": "1.0.0",
+  "description": "backend bot-chat-app",
+  "main": "public/client.js",
+  "scripts": {
+    "prod": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "Evan Brookens",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  },
+  "dependencies": {
+    "express": "^4.18.1",
+    "nedb": "^1.8.0",
+    "node-fetch": "^3.2.6",
+    "socket.io": "^4.5.1",
+    "sqlite3": "^5.0.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evbr1432/botChatApp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/evbr1432/botChatApp/issues"
+  },
+  "homepage": "https://github.com/evbr1432/botChatApp#readme"
+}

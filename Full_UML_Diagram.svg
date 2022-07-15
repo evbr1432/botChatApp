@@ -1,0 +1,681 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="5145.8333px" preserveAspectRatio="none" style="width:923px;height:5145px;background:#00000000;" version="1.1" viewBox="0 0 923 5145" width="923.9583px" zoomAndPan="magnify"><defs><linearGradient id="ggm7evcwzxdn40" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#FFFFFF"/><stop offset="100%" stop-color="#EEEEEE"/></linearGradient><linearGradient id="ggm7evcwzxdn41" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#F18E3E"/><stop offset="100%" stop-color="#EC7211"/></linearGradient></defs><g><rect fill="url(#ggm7evcwzxdn40)" height="45.0846" id="_title" rx="4.1667" ry="4.1667" style="stroke:#EEEEEE;stroke-width:1.0416666666666667;" width="380.2083" x="267.7083" y="10.4167"/><text fill="#EC7211" font-family="&quot;Verdana&quot;" font-size="20.8333" font-weight="bold" lengthAdjust="spacing" textLength="359.375" x="278.125" y="40.1713">Robo Chat Sequence Diagram</text><line style="stroke:#ABB6C2;stroke-width:0.5208333333333334;stroke-dasharray:5.0,5.0;" x1="208.3333" x2="208.3333" y1="134.6354" y2="5056.9987"/><line style="stroke:#ABB6C2;stroke-width:0.5208333333333334;stroke-dasharray:5.0,5.0;" x1="476.0417" x2="476.0417" y1="134.6354" y2="5056.9987"/><line style="stroke:#ABB6C2;stroke-width:0.5208333333333334;stroke-dasharray:5.0,5.0;" x1="679.6875" x2="679.6875" y1="134.6354" y2="5056.9987"/><line style="stroke:#ABB6C2;stroke-width:0.5208333333333334;stroke-dasharray:5.0,5.0;" x1="820.3125" x2="820.3125" y1="134.6354" y2="5056.9987"/><rect fill="url(#ggm7evcwzxdn41)" height="39.5508" rx="4.1667" ry="4.1667" style="stroke:#EC7211;stroke-width:0.5208333333333334;" width="59.375" x="179.1667" y="94.043"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="34.375" x="191.6667" y="118.1458">Client</text><rect fill="url(#ggm7evcwzxdn41)" height="39.5508" rx="4.1667" ry="4.1667" style="stroke:#EC7211;stroke-width:0.5208333333333334;" width="59.375" x="179.1667" y="5055.957"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="34.375" x="191.6667" y="5080.0598">Client</text><rect fill="url(#ggm7evcwzxdn41)" height="39.5508" rx="4.1667" ry="4.1667" style="stroke:#EC7211;stroke-width:0.5208333333333334;" width="67.7083" x="442.7083" y="94.043"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="42.7083" x="455.2083" y="118.1458">Server</text><rect fill="url(#ggm7evcwzxdn41)" height="39.5508" rx="4.1667" ry="4.1667" style="stroke:#EC7211;stroke-width:0.5208333333333334;" width="67.7083" x="442.7083" y="5055.957"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="42.7083" x="455.2083" y="5080.0598">Server</text><rect fill="url(#ggm7evcwzxdn41)" height="39.5508" rx="4.1667" ry="4.1667" style="stroke:#EC7211;stroke-width:0.5208333333333334;" width="102.0833" x="628.6458" y="94.043"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="77.0833" x="641.1458" y="118.1458">OtherClients</text><rect fill="url(#ggm7evcwzxdn41)" height="39.5508" rx="4.1667" ry="4.1667" style="stroke:#EC7211;stroke-width:0.5208333333333334;" width="102.0833" x="628.6458" y="5055.957"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="77.0833" x="641.1458" y="5080.0598">OtherClients</text><text fill="#4E5D6C" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="59.375" x="788.0208" y="126.4791">Database</text><path d="M802.0833,72.168 C802.0833,61.7513 820.8333,61.7513 820.8333,61.7513 C820.8333,61.7513 839.5833,61.7513 839.5833,72.168 L839.5833,99.2513 C839.5833,109.668 820.8333,109.668 820.8333,109.668 C820.8333,109.668 802.0833,109.668 802.0833,99.2513 L802.0833,72.168 " fill="url(#ggm7evcwzxdn41)" style="stroke:#EC7211;stroke-width:1.5625;"/><path d="M802.0833,72.168 C802.0833,82.5846 820.8333,82.5846 820.8333,82.5846 C820.8333,82.5846 839.5833,82.5846 839.5833,72.168 " fill="none" style="stroke:#EC7211;stroke-width:1.5625;"/><text fill="#4E5D6C" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="59.375" x="788.0208" y="5072.7681">Database</text><path d="M802.0833,5091.3411 C802.0833,5080.9245 820.8333,5080.9245 820.8333,5080.9245 C820.8333,5080.9245 839.5833,5080.9245 839.5833,5091.3411 L839.5833,5118.4245 C839.5833,5128.8411 820.8333,5128.8411 820.8333,5128.8411 C820.8333,5128.8411 802.0833,5128.8411 802.0833,5118.4245 L802.0833,5091.3411 " fill="url(#ggm7evcwzxdn41)" style="stroke:#EC7211;stroke-width:1.5625;"/><path d="M802.0833,5091.3411 C802.0833,5101.7578 820.8333,5101.7578 820.8333,5101.7578 C820.8333,5101.7578 839.5833,5101.7578 839.5833,5091.3411 " fill="none" style="stroke:#EC7211;stroke-width:1.5625;"/><rect fill="#4E5D6C" height="3.125" rx="4.1667" ry="4.1667" style="stroke:#4E5D6C;stroke-width:1.0416666666666667;" width="916.6667" x="0" y="171.0775"/><line style="stroke:#4E5D6C;stroke-width:1.0416666666666667;" x1="0" x2="916.6667" y1="171.0775" y2="171.0775"/><line style="stroke:#4E5D6C;stroke-width:1.0416666666666667;" x1="0" x2="916.6667" y1="174.2025" y2="174.2025"/><rect fill="#4E5D6C" height="33.3008" rx="4.1667" ry="4.1667" style="stroke:#4E5D6C;stroke-width:2.0833333333333335;" width="177.0833" x="369.7917" y="155.4688"/><text fill="#ABB6C2" font-family="&quot;Verdana&quot;" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="147.9167" x="381.25" y="176.4465">New User Sequence</text><polygon fill="#0073BB" points="604.1667,204.3945,755.2083,204.3945,765.625,241.8945,755.2083,280.4362,604.1667,280.4362,593.75,241.8945,604.1667,204.3945" style="stroke:#181818;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="62.5" x="611.4583" y="225.3723">Assumed:</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="68.75" x="611.4583" y="239.9231">-UI Loaded</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="136.4583" x="611.4583" y="254.4739">-Connected to Server</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="126.0417" x="611.4583" y="269.0247">-Chat Log Displayed</text><polygon fill="#0073BB" points="178.125,291.7643,239.5833,291.7643,250,307.3893,239.5833,324.056,178.125,324.056,167.7083,307.3893,178.125,291.7643" style="stroke:#181818;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="46.875" x="185.4167" y="312.7421">Load UI</text><polygon fill="#EC7211" points="464.0625,357.3242,474.4792,361.4909,464.0625,365.6576,468.2292,361.4909" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;" x1="208.8542" x2="470.3125" y1="361.4909" y2="361.4909"/><text fill="#4E5D6C" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="94.7917" x="221.3542" y="351.2512">WS Connection</text><polygon fill="#0073BB" points="406.25,375.0326,546.875,375.0326,557.2917,390.6576,546.875,407.3242,406.25,407.3242,395.8333,390.6576,406.25,375.0326" style="stroke:#181818;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="126.0417" x="413.5417" y="396.0103">Add User to Bot List</text><polygon fill="#0073BB" points="418.75,418.75,533.3333,418.75,543.75,448.9583,533.3333,480.2083,418.75,480.2083,408.3333,448.9583,418.75,418.75" style="stroke:#181818;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="78.125" x="426.0417" y="439.7278">Broadcast #</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="100" x="426.0417" y="454.2786">Connected Bots</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="80.2083" x="426.0417" y="468.8293">To All Clients</text><polygon fill="#EC7211" points="220.3125,513.4115,209.8958,517.5781,220.3125,521.7448,216.1458,517.5781" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;stroke-dasharray:2.0,2.0;" x1="214.0625" x2="475.5208" y1="517.5781" y2="517.5781"/><text fill="#4E5D6C" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="167.7083" x="231.7708" y="507.3385">Broadcast Connected Bots</text><polygon fill="#0073BB" points="144.7917,531.1198,271.875,531.1198,282.2917,546.7448,271.875,563.4115,144.7917,563.4115,134.375,546.7448,144.7917,531.1198" style="stroke:#181818;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="112.5" x="152.0833" y="552.0976">Prompt Username</text><polygon fill="#0073BB" points="143.75,574.8372,272.9167,574.8372,283.3333,590.4622,272.9167,607.1289,143.75,607.1289,133.3333,590.4622,143.75,574.8372" style="stroke:#181818;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="114.5833" x="151.0417" y="595.815">Display Username</text><polygon fill="#0073BB" points="110.4167,618.5547,306.25,618.5547,316.6667,634.1797,306.25,650.8464,110.4167,650.8464,100,634.1797,110.4167,618.5547" style="stroke:#181818;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="181.25" x="117.7083" y="639.5325">Display # of Bots Connected</text><polygon fill="#EC7211" points="464.0625,684.1146,474.4792,688.2813,464.0625,692.4479,468.2292,688.2813" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;" x1="208.8542" x2="470.3125" y1="688.2813" y2="688.2813"/><text fill="#4E5D6C" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="94.7917" x="221.3542" y="678.0416">Emit Username</text><polygon fill="#0073BB" points="413.5417,701.8229,538.5417,701.8229,548.9583,717.4479,538.5417,734.1146,413.5417,734.1146,403.125,717.4479,413.5417,701.8229" style="stroke:#181818;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="110.4167" x="420.8333" y="722.8007">Formulate DB Call</text><polygon fill="#EC7211" points="808.3333,767.3828,818.75,771.5495,808.3333,775.7161,812.5,771.5495" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;" x1="476.5625" x2="814.5833" y1="771.5495" y2="771.5495"/><text fill="#4E5D6C" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="116.6667" x="489.0625" y="761.3098">Is New Username?</text><polygon fill="#0073BB" points="739.5833,785.0911,901.0417,785.0911,911.4583,800.7161,901.0417,817.3828,739.5833,817.3828,729.1667,800.7161,739.5833,785.0911" style="stroke:#181818;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="146.875" x="746.875" y="806.0689">Search username in DB</text><polygon fill="#EC7211" points="488.0208,865.2018,477.6042,869.3685,488.0208,873.5352,483.8542,869.3685" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;" x1="481.7708" x2="819.7917" y1="869.3685" y2="869.3685"/><text fill="#4E5D6C" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="75" x="499.4792" y="844.578">Return True.</text><text fill="#4E5D6C" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="76.0417" x="499.4792" y="859.1288">Is New User</text><polygon fill="#0073BB" points="420.8333,882.9102,531.25,882.9102,541.6667,905.8268,531.25,929.7852,420.8333,929.7852,410.4167,905.8268,420.8333,882.9102" style="stroke:#181818;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="95.8333" x="428.125" y="903.8879">Build New User</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="57.2917" x="428.125" y="918.4387">Message</text><polygon fill="#EC7211" points="464.0625,977.5716,474.4792,981.7383,464.0625,985.9049,468.2292,981.7383" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;" x1="208.8542" x2="470.3125" y1="981.7383" y2="981.7383"/><text fill="#4E5D6C" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="43.75" x="221.3542" y="956.9478">API Call</text><text fill="#4E5D6C" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="80.2083" x="221.3542" y="971.4986">Get Chat Log</text><polygon fill="#0073BB" points="413.5417,995.2799,538.5417,995.2799,548.9583,1010.9049,538.5417,1027.5716,413.5417,1027.5716,403.125,1010.9049,413.5417,995.2799" style="stroke:#181818;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="110.4167" x="420.8333" y="1016.2577">Formulate DB Call</text><polygon fill="#EC7211" points="808.3333,1060.8398,818.75,1065.0065,808.3333,1069.1732,812.5,1065.0065" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;" x1="476.5625" x2="814.5833" y1="1065.0065" y2="1065.0065"/><text fill="#4E5D6C" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="160.4167" x="489.0625" y="1054.7668">Request X Day's Chat Log</text><polygon fill="#0073BB" points="754.1667,1078.5482,887.5,1078.5482,897.9167,1101.4648,887.5,1125.4232,754.1667,1125.4232,743.75,1101.4648,754.1667,1078.5482" style="stroke:#181818;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="118.75" x="761.4583" y="1099.526">Query Last X Day's</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="54.1667" x="761.4583" y="1114.0767">Chat Log</text><polygon fill="#EC7211" points="488.0208,1173.2096,477.6042,1177.3763,488.0208,1181.543,483.8542,1177.3763" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;" x1="481.7708" x2="819.7917" y1="1177.3763" y2="1177.3763"/><text fill="#4E5D6C" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="119.7917" x="499.4792" y="1152.5859">Return Last X Day's</text><text fill="#4E5D6C" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="54.1667" x="503.6458" y="1167.1366">Chat Log</text><polygon fill="#EC7211" points="220.3125,1212.7604,209.8958,1216.9271,220.3125,1221.0938,216.1458,1216.9271" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;" x1="214.0625" x2="475.5208" y1="1216.9271" y2="1216.9271"/><text fill="#4E5D6C" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="161.4583" x="231.7708" y="1206.6874">API Response w/ Chat Log</text><polygon fill="#0073BB" points="142.7083,1230.4688,273.9583,1230.4688,284.375,1246.0938,273.9583,1262.7604,142.7083,1262.7604,132.2917,1246.0938,142.7083,1230.4688" style="stroke:#181818;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="116.6667" x="150" y="1251.4465">Add Chat Log to UI</text><polygon fill="#EC7211" points="220.3125,1296.0286,209.8958,1300.1953,220.3125,1304.362,216.1458,1300.1953" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;" x1="214.0625" x2="475.5208" y1="1300.1953" y2="1300.1953"/><text fill="#4E5D6C" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="153.125" x="231.7708" y="1289.9556">Emit New User Message</text><polygon fill="#0073BB" points="154.1667,1313.737,262.5,1313.737,272.9167,1336.6536,262.5,1360.612,154.1667,1360.612,143.75,1336.6536,154.1667,1313.737" style="stroke:#181818;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="90.625" x="161.4583" y="1334.7148">Add New User</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="93.75" x="161.4583" y="1349.2655">Message To UI</text><rect fill="#4E5D6C" height="3.125" rx="4.1667" ry="4.1667" style="stroke:#4E5D6C;stroke-width:1.0416666666666667;" width="916.6667" x="0" y="1392.8223"/><line style="stroke:#4E5D6C;stroke-width:1.0416666666666667;" x1="0" x2="916.6667" y1="1392.8223" y2="1392.8223"/><line style="stroke:#4E5D6C;stroke-width:1.0416666666666667;" x1="0" x2="916.6667" y1="1395.9473" y2="1395.9473"/><rect fill="#4E5D6C" height="33.3008" rx="4.1667" ry="4.1667" style="stroke:#4E5D6C;stroke-width:2.0833333333333335;" width="205.2083" x="355.7292" y="1377.2135"/><text fill="#ABB6C2" font-family="&quot;Verdana&quot;" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="176.0417" x="367.1875" y="1398.1913">Existing User Sequence</text><polygon fill="#0073BB" points="604.1667,1426.1393,755.2083,1426.1393,765.625,1463.6393,755.2083,1502.181,604.1667,1502.181,593.75,1463.6393,604.1667,1426.1393" style="stroke:#181818;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="62.5" x="611.4583" y="1447.1171">Assumed:</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="68.75" x="611.4583" y="1461.6679">-UI Loaded</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="136.4583" x="611.4583" y="1476.2187">-Connected to Server</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="126.0417" x="611.4583" y="1490.7694">-Chat Log Displayed</text><polygon fill="#0073BB" points="178.125,1513.5091,239.5833,1513.5091,250,1529.1341,239.5833,1545.8008,178.125,1545.8008,167.7083,1529.1341,178.125,1513.5091" style="stroke:#181818;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="46.875" x="185.4167" y="1534.4869">Load UI</text><polygon fill="#EC7211" points="464.0625,1579.069,474.4792,1583.2357,464.0625,1587.4023,468.2292,1583.2357" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;" x1="208.8542" x2="470.3125" y1="1583.2357" y2="1583.2357"/><text fill="#4E5D6C" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="94.7917" x="221.3542" y="1572.996">WS Connection</text><polygon fill="#0073BB" points="406.25,1596.7773,546.875,1596.7773,557.2917,1612.4023,546.875,1629.069,406.25,1629.069,395.8333,1612.4023,406.25,1596.7773" style="stroke:#181818;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="126.0417" x="413.5417" y="1617.7551">Add User to Bot List</text><polygon fill="#EC7211" points="220.3125,1662.3372,209.8958,1666.5039,220.3125,1670.6706,216.1458,1666.5039" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;stroke-dasharray:2.0,2.0;" x1="214.0625" x2="475.5208" y1="1666.5039" y2="1666.5039"/><text fill="#4E5D6C" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="167.7083" x="231.7708" y="1656.2642">Broadcast Connected Bots</text><polygon fill="#EC7211" points="667.1875,1701.888,677.6042,1706.0547,667.1875,1710.2214,671.3542,1706.0547" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;stroke-dasharray:2.0,2.0;" x1="476.5625" x2="673.4375" y1="1706.0547" y2="1706.0547"/><text fill="#4E5D6C" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="167.7083" x="489.0625" y="1695.815">Broadcast Connected Bots</text><polygon fill="#0073BB" points="581.25,1719.5964,777.0833,1719.5964,787.5,1735.2214,777.0833,1751.888,581.25,1751.888,570.8333,1735.2214,581.25,1719.5964" style="stroke:#181818;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="181.25" x="588.5417" y="1740.5741">Display # of Bots Connected</text><polygon fill="#0073BB" points="144.7917,1763.3138,271.875,1763.3138,282.2917,1778.9388,271.875,1795.6055,144.7917,1795.6055,134.375,1778.9388,144.7917,1763.3138" style="stroke:#181818;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="112.5" x="152.0833" y="1784.2916">Prompt Username</text><polygon fill="#0073BB" points="143.75,1807.0313,272.9167,1807.0313,283.3333,1822.6563,272.9167,1839.3229,143.75,1839.3229,133.3333,1822.6563,143.75,1807.0313" style="stroke:#181818;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="114.5833" x="151.0417" y="1828.009">Display Username</text><polygon fill="#0073BB" points="110.4167,1850.7487,306.25,1850.7487,316.6667,1866.3737,306.25,1883.0404,110.4167,1883.0404,100,1866.3737,110.4167,1850.7487" style="stroke:#181818;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="181.25" x="117.7083" y="1871.7265">Display # of Bots Connected</text><polygon fill="#EC7211" points="464.0625,1916.3086,474.4792,1920.4753,464.0625,1924.6419,468.2292,1920.4753" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;" x1="208.8542" x2="470.3125" y1="1920.4753" y2="1920.4753"/><text fill="#4E5D6C" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="94.7917" x="221.3542" y="1910.2356">Emit Username</text><polygon fill="#0073BB" points="413.5417,1934.0169,538.5417,1934.0169,548.9583,1949.6419,538.5417,1966.3086,413.5417,1966.3086,403.125,1949.6419,413.5417,1934.0169" style="stroke:#181818;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="110.4167" x="420.8333" y="1954.9947">Formulate DB Call</text><polygon fill="#EC7211" points="808.3333,1999.5768,818.75,2003.7435,808.3333,2007.9102,812.5,2003.7435" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;" x1="476.5625" x2="814.5833" y1="2003.7435" y2="2003.7435"/><text fill="#4E5D6C" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="116.6667" x="489.0625" y="1993.5038">Is New Username?</text><polygon fill="#0073BB" points="739.5833,2017.2852,901.0417,2017.2852,911.4583,2032.9102,901.0417,2049.5768,739.5833,2049.5768,729.1667,2032.9102,739.5833,2017.2852" style="stroke:#181818;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="146.875" x="746.875" y="2038.2629">Search username in DB</text><polygon fill="#EC7211" points="488.0208,2097.3958,477.6042,2101.5625,488.0208,2105.7292,483.8542,2101.5625" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;" x1="481.7708" x2="819.7917" y1="2101.5625" y2="2101.5625"/><text fill="#4E5D6C" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="80.2083" x="499.4792" y="2076.7721">Return False.</text><text fill="#4E5D6C" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="86.4583" x="499.4792" y="2091.3228">Not New User</text><polygon fill="#0073BB" points="420.8333,2115.1042,531.25,2115.1042,541.6667,2138.0208,531.25,2161.9792,420.8333,2161.9792,410.4167,2138.0208,420.8333,2115.1042" style="stroke:#181818;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="95.8333" x="428.125" y="2136.0819">Not a New user</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="68.75" x="428.125" y="2150.6327">Do Nothing</text><polygon fill="#EC7211" points="464.0625,2209.7656,474.4792,2213.9323,464.0625,2218.099,468.2292,2213.9323" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;" x1="208.8542" x2="470.3125" y1="2213.9323" y2="2213.9323"/><text fill="#4E5D6C" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="43.75" x="221.3542" y="2189.1418">API Call</text><text fill="#4E5D6C" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="80.2083" x="221.3542" y="2203.6926">Get Chat Log</text><polygon fill="#0073BB" points="413.5417,2227.474,538.5417,2227.474,548.9583,2243.099,538.5417,2259.7656,413.5417,2259.7656,403.125,2243.099,413.5417,2227.474" style="stroke:#181818;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="110.4167" x="420.8333" y="2248.4517">Formulate DB Call</text><polygon fill="#EC7211" points="808.3333,2293.0339,818.75,2297.2005,808.3333,2301.3672,812.5,2297.2005" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;" x1="476.5625" x2="814.5833" y1="2297.2005" y2="2297.2005"/><text fill="#4E5D6C" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="160.4167" x="489.0625" y="2286.9609">Request X Day's Chat Log</text><polygon fill="#0073BB" points="754.1667,2310.7422,887.5,2310.7422,897.9167,2333.6589,887.5,2357.6172,754.1667,2357.6172,743.75,2333.6589,754.1667,2310.7422" style="stroke:#181818;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="118.75" x="761.4583" y="2331.72">Query Last X Day's</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="54.1667" x="761.4583" y="2346.2708">Chat Log</text><polygon fill="#EC7211" points="488.0208,2405.4036,477.6042,2409.5703,488.0208,2413.737,483.8542,2409.5703" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;" x1="481.7708" x2="819.7917" y1="2409.5703" y2="2409.5703"/><text fill="#4E5D6C" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="119.7917" x="499.4792" y="2384.7799">Return Last X Day's</text><text fill="#4E5D6C" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="54.1667" x="503.6458" y="2399.3306">Chat Log</text><polygon fill="#EC7211" points="220.3125,2444.9544,209.8958,2449.1211,220.3125,2453.2878,216.1458,2449.1211" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;" x1="214.0625" x2="475.5208" y1="2449.1211" y2="2449.1211"/><text fill="#4E5D6C" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="207.2917" x="231.7708" y="2438.8814">API Response w/ Chat Log (JSON)</text><polygon fill="#0073BB" points="142.7083,2462.6628,273.9583,2462.6628,284.375,2478.2878,273.9583,2494.9544,142.7083,2494.9544,132.2917,2478.2878,142.7083,2462.6628" style="stroke:#181818;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="116.6667" x="150" y="2483.6405">Add Chat Log to UI</text><rect fill="#4E5D6C" height="3.125" rx="4.1667" ry="4.1667" style="stroke:#4E5D6C;stroke-width:1.0416666666666667;" width="916.6667" x="0" y="2527.1973"/><line style="stroke:#4E5D6C;stroke-width:1.0416666666666667;" x1="0" x2="916.6667" y1="2527.1973" y2="2527.1973"/><line style="stroke:#4E5D6C;stroke-width:1.0416666666666667;" x1="0" x2="916.6667" y1="2530.3223" y2="2530.3223"/><rect fill="#4E5D6C" height="33.3008" rx="4.1667" ry="4.1667" style="stroke:#4E5D6C;stroke-width:2.0833333333333335;" width="139.5833" x="388.5417" y="2511.5885"/><text fill="#ABB6C2" font-family="&quot;Verdana&quot;" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="110.4167" x="400" y="2532.5663">Basic Message</text><polygon fill="#0073BB" points="145.8333,2560.5143,271.875,2560.5143,282.2917,2576.1393,271.875,2592.806,145.8333,2592.806,135.4167,2576.1393,145.8333,2560.5143" style="stroke:#181818;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="111.4583" x="153.125" y="2581.4921">Submits Message</text><polygon fill="#0073BB" points="117.7083,2604.2318,298.9583,2604.2318,309.375,2619.8568,298.9583,2636.5234,117.7083,2636.5234,107.2917,2619.8568,117.7083,2604.2318" style="stroke:#181818;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="166.6667" x="125" y="2625.2096">Clear Message From Form</text><polygon fill="#0073BB" points="167.7083,2647.9492,250,2647.9492,260.4167,2663.5742,250,2680.2409,167.7083,2680.2409,157.2917,2663.5742,167.7083,2647.9492" style="stroke:#181818;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="67.7083" x="175" y="2668.927">Play Sound</text><polygon fill="#0073BB" points="137.5,2691.6667,279.1667,2691.6667,289.5833,2707.2917,279.1667,2723.9583,137.5,2723.9583,127.0833,2707.2917,137.5,2691.6667" style="stroke:#181818;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="127.0833" x="144.7917" y="2712.6444">Adds Message to UI</text><polygon fill="#EC7211" points="464.0625,2757.2266,474.4792,2761.3932,464.0625,2765.5599,468.2292,2761.3932" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;" x1="208.8542" x2="470.3125" y1="2761.3932" y2="2761.3932"/><text fill="#4E5D6C" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="158.3333" x="221.3542" y="2751.1536">Emits Chat Message Data</text><polygon fill="#0073BB" points="393.75,2774.9349,559.375,2774.9349,569.7917,2790.5599,559.375,2807.2266,393.75,2807.2266,383.3333,2790.5599,393.75,2774.9349" style="stroke:#181818;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="151.0417" x="401.0417" y="2795.9127">Recieves Message Data</text><polygon fill="#EC7211" points="667.1875,2840.4948,677.6042,2844.6615,667.1875,2848.8281,671.3542,2844.6615" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;stroke-dasharray:2.0,2.0;" x1="476.5625" x2="673.4375" y1="2844.6615" y2="2844.6615"/><text fill="#4E5D6C" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="157.2917" x="489.0625" y="2834.4218">Broadcast Message Data</text><polygon fill="#0073BB" points="610.4167,2858.2031,747.9167,2858.2031,758.3333,2873.8281,747.9167,2890.4948,610.4167,2890.4948,600,2873.8281,610.4167,2858.2031" style="stroke:#181818;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="122.9167" x="617.7083" y="2879.1809">Add Message To UI</text><polygon fill="#0073BB" points="629.1667,2901.9206,729.1667,2901.9206,739.5833,2917.5456,729.1667,2934.2122,629.1667,2934.2122,618.75,2917.5456,629.1667,2901.9206" style="stroke:#181818;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="85.4167" x="636.4583" y="2922.8984">Play Message</text><rect fill="#4E5D6C" height="3.125" rx="4.1667" ry="4.1667" style="stroke:#4E5D6C;stroke-width:1.0416666666666667;" width="916.6667" x="0" y="2966.4551"/><line style="stroke:#4E5D6C;stroke-width:1.0416666666666667;" x1="0" x2="916.6667" y1="2966.4551" y2="2966.4551"/><line style="stroke:#4E5D6C;stroke-width:1.0416666666666667;" x1="0" x2="916.6667" y1="2969.5801" y2="2969.5801"/><rect fill="#4E5D6C" height="33.3008" rx="4.1667" ry="4.1667" style="stroke:#4E5D6C;stroke-width:2.0833333333333335;" width="182.2917" x="367.1875" y="2950.8464"/><text fill="#ABB6C2" font-family="&quot;Verdana&quot;" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="153.125" x="378.6458" y="2971.8241">User Command: Help</text><polygon fill="#0073BB" points="96.875,2999.7721,320.8333,2999.7721,331.25,3015.3971,320.8333,3032.0638,96.875,3032.0638,86.4583,3015.3971,96.875,2999.7721" style="stroke:#181818;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="209.375" x="104.1667" y="3020.7499">Submits help Command Message</text><polygon fill="#0073BB" points="117.7083,3043.4896,298.9583,3043.4896,309.375,3059.1146,298.9583,3075.7813,117.7083,3075.7813,107.2917,3059.1146,117.7083,3043.4896" style="stroke:#181818;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="166.6667" x="125" y="3064.4674">Clear Message From Form</text><polygon fill="#0073BB" points="104.1667,3087.207,312.5,3087.207,322.9167,3102.832,312.5,3119.4987,104.1667,3119.4987,93.75,3102.832,104.1667,3087.207" style="stroke:#181818;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="193.75" x="111.4583" y="3108.1848">Adds Command Message to UI</text><polygon fill="#0073BB" points="119.7917,3130.9245,296.875,3130.9245,307.2917,3146.5495,296.875,3163.2161,119.7917,3163.2161,109.375,3146.5495,119.7917,3130.9245" style="stroke:#181818;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="162.5" x="127.0833" y="3151.9023">Parse Command Message</text><polygon fill="#0073BB" points="139.5833,3174.6419,277.0833,3174.6419,287.5,3190.2669,277.0833,3206.9336,139.5833,3206.9336,129.1667,3190.2669,139.5833,3174.6419" style="stroke:#181818;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="122.9167" x="146.875" y="3195.6197">Build help Message</text><polygon fill="#0073BB" points="134.375,3218.3594,283.3333,3218.3594,293.75,3233.9844,283.3333,3250.651,134.375,3250.651,123.9583,3233.9844,134.375,3218.3594" style="stroke:#181818;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="134.375" x="141.6667" y="3239.3372">Add help Message UI</text><rect fill="#4E5D6C" height="3.125" rx="4.1667" ry="4.1667" style="stroke:#4E5D6C;stroke-width:1.0416666666666667;" width="916.6667" x="0" y="3282.8939"/><line style="stroke:#4E5D6C;stroke-width:1.0416666666666667;" x1="0" x2="916.6667" y1="3282.8939" y2="3282.8939"/><line style="stroke:#4E5D6C;stroke-width:1.0416666666666667;" x1="0" x2="916.6667" y1="3286.0189" y2="3286.0189"/><rect fill="#4E5D6C" height="33.3008" rx="4.1667" ry="4.1667" style="stroke:#4E5D6C;stroke-width:2.0833333333333335;" width="267.7083" x="324.4792" y="3267.2852"/><text fill="#ABB6C2" font-family="&quot;Verdana&quot;" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="238.5417" x="335.9375" y="3288.2629">User Command: getXDayHistory</text><polygon fill="#0073BB" points="61.4583,3316.2109,356.25,3316.2109,366.6667,3331.8359,356.25,3348.5026,61.4583,3348.5026,51.0417,3331.8359,61.4583,3316.2109" style="stroke:#181818;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="280.2083" x="68.75" y="3337.1887">Submits getXDayHistory Command Message</text><polygon fill="#0073BB" points="117.7083,3359.9284,298.9583,3359.9284,309.375,3375.5534,298.9583,3392.2201,117.7083,3392.2201,107.2917,3375.5534,117.7083,3359.9284" style="stroke:#181818;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="166.6667" x="125" y="3380.9062">Clear Message From Form</text><polygon fill="#0073BB" points="104.1667,3403.6458,312.5,3403.6458,322.9167,3419.2708,312.5,3435.9375,104.1667,3435.9375,93.75,3419.2708,104.1667,3403.6458" style="stroke:#181818;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="193.75" x="111.4583" y="3424.6236">Adds Command Message to UI</text><polygon fill="#0073BB" points="119.7917,3447.3633,296.875,3447.3633,307.2917,3462.9883,296.875,3479.6549,119.7917,3479.6549,109.375,3462.9883,119.7917,3447.3633" style="stroke:#181818;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="162.5" x="127.0833" y="3468.3411">Parse Command Message</text><polygon fill="#0073BB" points="154.1667,3491.0807,263.5417,3491.0807,273.9583,3506.7057,263.5417,3523.3724,154.1667,3523.3724,143.75,3506.7057,154.1667,3491.0807" style="stroke:#181818;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="94.7917" x="161.4583" y="3512.0585">Build API Query</text><polygon fill="#EC7211" points="464.0625,3556.6406,474.4792,3560.8073,464.0625,3564.974,468.2292,3560.8073" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;" x1="208.8542" x2="470.3125" y1="3560.8073" y2="3560.8073"/><text fill="#4E5D6C" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="43.75" x="221.3542" y="3550.5676">API Call</text><polygon fill="#0073BB" points="413.5417,3574.349,538.5417,3574.349,548.9583,3589.974,538.5417,3606.6406,413.5417,3606.6406,403.125,3589.974,413.5417,3574.349" style="stroke:#181818;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="110.4167" x="420.8333" y="3595.3267">Formulate DB Call</text><polygon fill="#EC7211" points="808.3333,3654.4596,818.75,3658.6263,808.3333,3662.793,812.5,3658.6263" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;" x1="476.5625" x2="814.5833" y1="3658.6263" y2="3658.6263"/><text fill="#4E5D6C" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="102.0833" x="489.0625" y="3633.8359">Get Last X Day's</text><text fill="#4E5D6C" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="76.0417" x="489.0625" y="3648.3866">Chat History</text><polygon fill="#0073BB" points="141.6667,3672.168,275,3672.168,285.4167,3695.0846,275,3719.043,141.6667,3719.043,131.25,3695.0846,141.6667,3672.168" style="stroke:#181818;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="118.75" x="148.9583" y="3693.1458">Query Last X Day's</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="76.0417" x="148.9583" y="3707.6965">Chat History</text><polygon fill="#EC7211" points="488.0208,3766.8294,477.6042,3770.9961,488.0208,3775.1628,483.8542,3770.9961" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;" x1="481.7708" x2="819.7917" y1="3770.9961" y2="3770.9961"/><text fill="#4E5D6C" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="119.7917" x="499.4792" y="3746.2056">Return Last X Day's</text><text fill="#4E5D6C" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="76.0417" x="499.4792" y="3760.7564">Chat History</text><polygon fill="#EC7211" points="220.3125,3806.3802,209.8958,3810.5469,220.3125,3814.7135,216.1458,3810.5469" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;" x1="214.0625" x2="475.5208" y1="3810.5469" y2="3810.5469"/><text fill="#4E5D6C" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="232.2917" x="231.7708" y="3800.3072">API Response w/ Last X Day's History</text><polygon fill="#0073BB" points="112.5,3824.0885,304.1667,3824.0885,314.5833,3839.7135,304.1667,3856.3802,112.5,3856.3802,102.0833,3839.7135,112.5,3824.0885" style="stroke:#181818;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="177.0833" x="119.7917" y="3845.0663">Download Messages (JSON)</text><rect fill="#4E5D6C" height="3.125" rx="4.1667" ry="4.1667" style="stroke:#4E5D6C;stroke-width:1.0416666666666667;" width="916.6667" x="0" y="3888.623"/><line style="stroke:#4E5D6C;stroke-width:1.0416666666666667;" x1="0" x2="916.6667" y1="3888.623" y2="3888.623"/><line style="stroke:#4E5D6C;stroke-width:1.0416666666666667;" x1="0" x2="916.6667" y1="3891.748" y2="3891.748"/><rect fill="#4E5D6C" height="33.3008" rx="4.1667" ry="4.1667" style="stroke:#4E5D6C;stroke-width:2.0833333333333335;" width="285.4167" x="315.625" y="3873.0143"/><text fill="#ABB6C2" font-family="&quot;Verdana&quot;" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="256.25" x="327.0833" y="3893.9921">User Activity Feedback: Preparing</text><path d="M5.2083,3926.1068 L5.2083,4054.2318 A4.1667,4.1667 0 0 0 9.375,4058.3984 L200,4058.3984 A4.1667,4.1667 0 0 0 204.1667,4054.2318 L204.1667,3932.3568 L193.75,3921.9401 L9.375,3921.9401 A4.1667,4.1667 0 0 0 5.2083,3926.1068 " fill="#0073BB" style="stroke:#181818;stroke-width:1.0416666666666667;"/><path d="M193.75,3921.9401 L193.75,3930.2734 A2.0833,2.0833 0 0 0 195.8333,3932.3568 L204.1667,3932.3568 L193.75,3921.9401 " fill="#0073BB" style="stroke:#181818;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="139.5833" x="16.6667" y="3943.9596">NOTE: Activities follow</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="135.4167" x="16.6667" y="3958.5103">this sequence with all</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="141.6667" x="16.6667" y="3973.0611">clients simultaneously;</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="138.5417" x="16.6667" y="3987.6119">building the displayed</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="150" x="16.6667" y="4002.1627">message appropriately.</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="153.125" x="16.6667" y="4016.7135">(i.e. Client 1 is preparing</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="166.6667" x="16.6667" y="4031.2642">Client 2 is Typeing Client 3</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="42.7083" x="16.6667" y="4045.815">is etc.)</text><polygon fill="#0073BB" points="154.1667,4069.5964,262.5,4069.5964,272.9167,4092.513,262.5,4116.4714,154.1667,4116.4714,143.75,4092.513,154.1667,4069.5964" style="stroke:#181818;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="86.4583" x="161.4583" y="4090.5741">Client 1 Clicks</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="93.75" x="161.4583" y="4105.1249">Message Form</text><polygon fill="#EC7211" points="464.0625,4149.707,474.4792,4153.8737,464.0625,4158.0404,468.2292,4153.8737" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;" x1="208.8542" x2="470.3125" y1="4153.8737" y2="4153.8737"/><text fill="#4E5D6C" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="142.7083" x="221.3542" y="4143.634">Emit Activity: Preparing</text><polygon fill="#EC7211" points="667.1875,4203.8086,677.6042,4207.9753,667.1875,4212.1419,671.3542,4207.9753" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;stroke-dasharray:2.0,2.0;" x1="476.5625" x2="673.4375" y1="4207.9753" y2="4207.9753"/><text fill="#4E5D6C" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="114.5833" x="489.0625" y="4183.1848">Broadcast Client A</text><text fill="#4E5D6C" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="112.5" x="489.0625" y="4197.7356">Activity: Preparing</text><polygon fill="#0073BB" points="615.625,4221.5169,743.75,4221.5169,754.1667,4259.0169,743.75,4297.5586,615.625,4297.5586,605.2083,4259.0169,615.625,4221.5169" style="stroke:#181818;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="101.0417" x="622.9167" y="4242.4947">Display "Client 1</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="79.1667" x="622.9167" y="4257.0455">Is Preparing"</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="93.75" x="622.9167" y="4271.5963">In User Activity</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="113.5417" x="622.9167" y="4286.1471">Feedback Section</text><polygon fill="#0073BB" points="146.875,4308.8867,270.8333,4308.8867,281.25,4331.8034,270.8333,4355.7617,146.875,4355.7617,136.4583,4331.8034,146.875,4308.8867" style="stroke:#181818;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="109.375" x="154.1667" y="4329.8645">Client 1 Clicks Off</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="93.75" x="154.1667" y="4344.4153">Message Form</text><polygon fill="#EC7211" points="464.0625,4388.9974,474.4792,4393.1641,464.0625,4397.3307,468.2292,4393.1641" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;" x1="208.8542" x2="470.3125" y1="4393.1641" y2="4393.1641"/><text fill="#4E5D6C" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="138.5417" x="221.3542" y="4382.9244">Emit Activity: "" (NULL)</text><polygon fill="#EC7211" points="667.1875,4443.099,677.6042,4447.2656,667.1875,4451.4323,671.3542,4447.2656" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;stroke-dasharray:2.0,2.0;" x1="476.5625" x2="673.4375" y1="4447.2656" y2="4447.2656"/><text fill="#4E5D6C" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="113.5417" x="489.0625" y="4422.4752">Broadcast Client 1</text><text fill="#4E5D6C" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="108.3333" x="489.0625" y="4437.026">Activity: "" (NULL)</text><polygon fill="#0073BB" points="605.2083,4460.8073,754.1667,4460.8073,764.5833,4491.0156,754.1667,4522.2656,605.2083,4522.2656,594.7917,4491.0156,605.2083,4460.8073" style="stroke:#181818;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="134.375" x="612.5" y="4481.7851">Remove User Activity</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="113.5417" x="612.5" y="4496.3359">Feedback Section</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="82.2917" x="612.5" y="4510.8866">From Display</text><rect fill="#4E5D6C" height="3.125" rx="4.1667" ry="4.1667" style="stroke:#4E5D6C;stroke-width:1.0416666666666667;" width="916.6667" x="0" y="4554.4434"/><line style="stroke:#4E5D6C;stroke-width:1.0416666666666667;" x1="0" x2="916.6667" y1="4554.4434" y2="4554.4434"/><line style="stroke:#4E5D6C;stroke-width:1.0416666666666667;" x1="0" x2="916.6667" y1="4557.5684" y2="4557.5684"/><rect fill="#4E5D6C" height="33.3008" rx="4.1667" ry="4.1667" style="stroke:#4E5D6C;stroke-width:2.0833333333333335;" width="291.6667" x="312.5" y="4538.8346"/><text fill="#ABB6C2" font-family="&quot;Verdana&quot;" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="262.5" x="323.9583" y="4559.8124">User Activity Feedback: Composing</text><polygon fill="#0073BB" points="128.125,4587.7604,289.5833,4587.7604,300,4610.6771,289.5833,4634.6354,128.125,4634.6354,117.7083,4610.6771,128.125,4587.7604" style="stroke:#181818;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="146.875" x="135.4167" y="4608.7382">Client 1 Starts Typing In</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="93.75" x="135.4167" y="4623.289">Message Form</text><polygon fill="#EC7211" points="464.0625,4667.8711,474.4792,4672.0378,464.0625,4676.2044,468.2292,4672.0378" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;" x1="208.8542" x2="470.3125" y1="4672.0378" y2="4672.0378"/><text fill="#4E5D6C" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="154.1667" x="221.3542" y="4661.7981">Emit Activity: Composing</text><polygon fill="#EC7211" points="667.1875,4721.9727,677.6042,4726.1393,667.1875,4730.306,671.3542,4726.1393" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;stroke-dasharray:2.0,2.0;" x1="476.5625" x2="673.4375" y1="4726.1393" y2="4726.1393"/><text fill="#4E5D6C" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="114.5833" x="489.0625" y="4701.3489">Broadcast Client A</text><text fill="#4E5D6C" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="123.9583" x="489.0625" y="4715.8997">Activity: Composing</text><polygon fill="#0073BB" points="615.625,4739.681,743.75,4739.681,754.1667,4777.181,743.75,4815.7227,615.625,4815.7227,605.2083,4777.181,615.625,4739.681" style="stroke:#181818;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="101.0417" x="622.9167" y="4760.6588">Display "Client 1</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="90.625" x="622.9167" y="4775.2096">Is Composing"</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="93.75" x="622.9167" y="4789.7603">In User Activity</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="113.5417" x="622.9167" y="4804.3111">Feedback Section</text><polygon fill="#0073BB" points="135.4167,4827.0508,282.2917,4827.0508,292.7083,4849.9674,282.2917,4873.9258,135.4167,4873.9258,125,4849.9674,135.4167,4827.0508" style="stroke:#181818;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="132.2917" x="142.7083" y="4848.0286">Client 1 Stops Typing</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="131.25" x="142.7083" y="4862.5793">Or Submits Message</text><polygon fill="#EC7211" points="464.0625,4907.1615,474.4792,4911.3281,464.0625,4915.4948,468.2292,4911.3281" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;" x1="208.8542" x2="470.3125" y1="4911.3281" y2="4911.3281"/><text fill="#4E5D6C" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="138.5417" x="221.3542" y="4901.0885">Emit Activity: "" (NULL)</text><polygon fill="#EC7211" points="667.1875,4961.263,677.6042,4965.4297,667.1875,4969.5964,671.3542,4965.4297" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;stroke-dasharray:2.0,2.0;" x1="476.5625" x2="673.4375" y1="4965.4297" y2="4965.4297"/><text fill="#4E5D6C" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="113.5417" x="489.0625" y="4940.6392">Broadcast Client 1</text><text fill="#4E5D6C" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="108.3333" x="489.0625" y="4955.19">Activity: "" (NULL)</text><polygon fill="#0073BB" points="605.2083,4978.9714,754.1667,4978.9714,764.5833,5009.1797,754.1667,5040.4297,605.2083,5040.4297,594.7917,5009.1797,605.2083,4978.9714" style="stroke:#181818;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="134.375" x="612.5" y="4999.9491">Remove User Activity</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="113.5417" x="612.5" y="5014.4999">Feedback Section</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="82.2917" x="612.5" y="5029.0507">From Display</text><!--MD5=[1f7036962ae347b488e0eb2493a7a4ae]
+@startuml
+!theme aws-orange
+
+Title: Robo Chat Sequence Diagram 
+
+participant Client as C
+participant Server as S
+participant OtherClients as O
+database    Database    as db
+
+== New User Sequence ==
+hnote over O: Assumed:\n-UI Loaded\n-Connected to Server\n-Chat Log Displayed
+hnote over C: Load UI
+C -> S : WS Connection
+hnote over S: Add User to Bot List
+hnote over S: Broadcast #\nConnected Bots\nTo All Clients
+S - -> C: Broadcast Connected Bots
+hnote over C: Prompt Username
+hnote over C: Display Username
+hnote over C: Display # of Bots Connected
+C -> S : Emit Username
+hnote over S: Formulate DB Call
+S -> db: Is New Username?
+hnote over db: Search username in DB
+db -> S: Return True.\nIs New User
+hnote over S: Build New User\nMessage
+C -> S: API Call\nGet Chat Log
+hnote over S: Formulate DB Call
+S -> db: Request X Day's Chat Log
+hnote over db: Query Last X Day's\nChat Log
+db -> S: Return Last X Day's\n Chat Log
+S -> C: API Response w/ Chat Log
+hnote over C: Add Chat Log to UI
+S -> C: Emit New User Message
+hnote over C: Add New User\nMessage To UI
+
+== Existing User Sequence ==
+hnote over O: Assumed:\n-UI Loaded\n-Connected to Server\n-Chat Log Displayed
+hnote over C: Load UI
+C -> S : WS Connection
+hnote over S: Add User to Bot List
+S - -> C: Broadcast Connected Bots
+S - -> O: Broadcast Connected Bots
+hnote over O: Display # of Bots Connected
+hnote over C: Prompt Username
+hnote over C: Display Username
+hnote over C: Display # of Bots Connected
+C -> S : Emit Username
+hnote over S: Formulate DB Call
+S -> db: Is New Username?
+hnote over db: Search username in DB
+db -> S: Return False.\nNot New User
+hnote over S: Not a New user\nDo Nothing
+C -> S: API Call\nGet Chat Log
+hnote over S: Formulate DB Call
+S -> db: Request X Day's Chat Log
+hnote over db: Query Last X Day's\nChat Log
+db -> S: Return Last X Day's\n Chat Log
+S -> C: API Response w/ Chat Log (JSON)
+hnote over C: Add Chat Log to UI
+
+== Basic Message ==
+hnote over C: Submits Message
+hnote over C: Clear Message From Form
+hnote over C: Play Sound
+hnote over C: Adds Message to UI
+C -> S: Emits Chat Message Data
+hnote over S: Recieves Message Data
+S - -> O: Broadcast Message Data
+hnote over O: Add Message To UI
+hnote over O: Play Message
+
+== User Command: Help ==
+hnote over C: Submits help Command Message
+hnote over C: Clear Message From Form
+hnote over C: Adds Command Message to UI
+hnote over C: Parse Command Message
+hnote over C: Build help Message
+hnote over C: Add help Message UI
+
+== User Command: getXDayHistory ==
+hnote over C: Submits getXDayHistory Command Message
+hnote over C: Clear Message From Form
+hnote over C: Adds Command Message to UI
+hnote over C: Parse Command Message
+hnote over C: Build API Query
+C -> S: API Call
+hnote over S: Formulate DB Call
+S -> db: Get Last X Day's\nChat History
+hnote over C: Query Last X Day's\nChat History
+db -> S: Return Last X Day's\nChat History
+S -> C: API Response w/ Last X Day's History
+hnote over C: Download Messages (JSON)
+
+== User Activity Feedback: Preparing ==
+note left of C
+NOTE: Activities follow
+this sequence with all 
+clients simultaneously;
+building the displayed
+message appropriately.
+(i.e. Client 1 is preparing
+Client 2 is Typeing Client 3
+is etc.)
+end note
+hnote over C: Client 1 Clicks\nMessage Form
+C -> S : Emit Activity: Preparing
+
+S - -> O: Broadcast Client A\nActivity: Preparing
+hnote over O: Display "Client 1\nIs Preparing"\nIn User Activity\nFeedback Section
+hnote over C: Client 1 Clicks Off\nMessage Form
+C -> S : Emit Activity: "" (NULL)
+S - -> O: Broadcast Client 1\nActivity: "" (NULL)
+hnote over O: Remove User Activity\nFeedback Section\nFrom Display
+
+== User Activity Feedback: Composing ==
+hnote over C: Client 1 Starts Typing In\nMessage Form
+C -> S : Emit Activity: Composing
+S - -> O: Broadcast Client A\nActivity: Composing
+hnote over O: Display "Client 1\nIs Composing"\nIn User Activity\nFeedback Section
+hnote over C: Client 1 Stops Typing\nOr Submits Message
+C -> S : Emit Activity: "" (NULL)
+S - -> O: Broadcast Client 1\nActivity: "" (NULL)
+hnote over O: Remove User Activity\nFeedback Section\nFrom Display
+@enduml
+
+@startuml
+skinparam BackgroundColor transparent
+skinparam useBetaStyle false
+    !assume transparent light
+skinparam defaultFontName       "Verdana"
+skinparam defaultFontSize       12
+skinparam dpi                   100
+skinparam shadowing             false
+skinparam roundcorner           8
+skinparam ParticipantPadding    40
+skinparam BoxPadding            40
+skinparam Padding               5
+skinparam ArrowColor            #4E5D6C
+skinparam stereotype {
+    CBackgroundColor ffffff
+    CBorderColor #BEBEBE
+    ABackgroundColor #239B02
+    ABorderColor #176702
+    IBackgroundColor #EC4624
+    IBorderColor #A7280E
+    EBackgroundColor #F18E3E
+    EBorderColor #BD5B0E
+    NBackgroundColor #008AE0
+    NBorderColor #005C96
+}
+skinparam title {
+	FontSize	    	         20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor  ffffff-#eeeeee
+	FontColor #EC7211
+	BorderColor #eeeeee
+}
+
+skinparam legend {
+    		FontColor #4E5D6C
+		BorderColor #BEBEBE
+		BackgroundColor ffffff-#eeeeee
+    BackgroundColor transparent
+}
+
+skinparam swimlane {
+	BorderColor #0073bb
+	BorderThickness 2
+	TitleBackgroundColor  ffffff-#eeeeee
+	TitleFontColor #EC7211
+}
+
+
+skinparam activity {
+			FontColor #FFF
+		BorderColor #EC7211
+		BackgroundColor #F18E3E-#EC7211
+	BarColor #1D8102
+	StartColor #0073bb
+	EndColor #0073bb
+	DiamondBackgroundColor #eeeeee
+  	DiamondBorderColor #BEBEBE
+  	DiamondFontColor #4E5D6C
+}
+
+skinparam participant {
+			FontColor #FFF
+		BorderColor #EC7211
+		BackgroundColor #F18E3E-#EC7211
+	ParticipantBorderThickness 2
+}
+
+skinparam actor {
+			FontColor #FFF
+		BorderColor #EC7211
+		BackgroundColor #F18E3E-#EC7211
+	FontColor #4E5D6C
+}
+
+skinparam arrow {
+	Thickness 3
+	Color #EC7211
+	FontColor #4E5D6C
+}
+
+skinparam sequence {
+	ArrowThickness 3
+	BorderColor #EC7211
+	TitleFontColor #EC7211
+	BackgroundColor transparent
+	StartColor #EC7211
+	EndColor #EC7211
+	BoxBackgroundColor transparent
+	BoxBorderColor #4E5D6C
+	BoxFontColor #4E5D6C
+	DelayFontColor #4E5D6C
+	LifeLineBorderColor #abb6c2
+	LifeLineBorderThickness 2
+	LifeLineBackgroundColor #8191A3
+	GroupBorderColor #4E5D6C
+	GroupFontColor #4E5D6C
+	GroupHeaderFontColor #0073bb
+	GroupBackgroundColor #eeeeee
+	GroupBodyBackgroundColor transparent
+	GroupHeaderBackgroundColor transparent
+	DividerBackgroundColor #4E5D6C
+    DividerBorderColor #4E5D6C
+    DividerBorderThickness 2
+    DividerFontColor #abb6c2
+	ReferenceBackgroundColor transparent
+	ReferenceBorderColor #4E5D6C
+	ReferenceFontColor #4E5D6C
+	ReferenceHeaderFontColor #0073bb
+	ReferenceHeaderBackgroundColor #eeeeee
+	StereotypeFontColor #FFF
+	StereotypeFontSize 12
+}
+
+skinparam partition {
+	BorderColor #EC7211
+	FontColor #EC7211
+	BackgroundColor transparent
+}
+
+skinparam collections {
+			FontColor #FFF
+		BorderColor #EC7211
+		BackgroundColor #F18E3E-#EC7211
+}
+
+skinparam control {
+			FontColor #FFF
+		BorderColor #EC7211
+		BackgroundColor #F18E3E-#EC7211
+	FontColor #4E5D6C
+}
+
+skinparam entity {
+			FontColor #FFF
+		BorderColor #EC7211
+		BackgroundColor #F18E3E-#EC7211
+	FontColor #4E5D6C
+}
+
+skinparam boundary {
+			FontColor #FFF
+		BorderColor #EC7211
+		BackgroundColor #F18E3E-#EC7211
+	FontColor #4E5D6C
+}
+
+skinparam agent {
+	BackgroundColor #EC7211
+	BorderColor #F18E3E
+	FontColor #4E5D6C
+}
+
+skinparam note {
+	BorderThickness 1
+	BackgroundColor #0073bb
+	BorderColor #005C96
+	FontColor #FFF
+}
+
+skinparam artifact {
+	BackgroundColor #4E5D6C
+	BorderColor #3E4A56
+	FontColor #abb6c2
+}
+
+skinparam component {
+			FontColor #FFF
+		BorderColor #EC7211
+		BackgroundColor #F18E3E-#EC7211
+}
+
+skinparam interface {
+	BackgroundColor  #A7280E
+	BorderColor  #d13212
+	FontColor #4E5D6C
+}
+
+skinparam storage {
+	BackgroundColor #EC7211
+  	BorderColor #BD5B0E
+	FontColor #FFF
+}
+
+skinparam node {
+	BackgroundColor  transparent
+	BorderColor #abb6c2
+	FontColor #abb6c2
+}
+
+skinparam cloud {
+	BackgroundColor transparent
+	BorderColor #4E5D6C
+	FontColor #4E5D6C
+}
+
+skinparam database {
+			FontColor #FFF
+		BorderColor #EC7211
+		BackgroundColor #F18E3E-#EC7211
+	FontColor #4E5D6C
+	StereotypeFontColor #4E5D6C
+}
+
+skinparam class {
+			FontColor #FFF
+		BorderColor #EC7211
+		BackgroundColor #F18E3E-#EC7211
+	FontColor #FFF
+	HeaderBackgroundColor #F18E3E-#EC7211
+	StereotypeFontColor #4E5D6C
+	BorderThickness 1
+	AttributeFontColor #FFF
+	AttributeFontSize 11
+}
+
+skinparam object {
+			FontColor #FFF
+		BorderColor #EC7211
+		BackgroundColor #F18E3E-#EC7211
+	StereotypeFontColor #4E5D6C
+	BorderThickness 1
+	AttributeFontColor #FFF
+	AttributeFontSize 11
+}
+
+skinparam usecase {
+			FontColor #FFF
+		BorderColor #EC7211
+		BackgroundColor #F18E3E-#EC7211
+	BorderThickness 2
+	StereotypeFontColor #EC7211
+}
+
+skinparam rectangle {
+	BackgroundColor transparent
+	FontColor #4E5D6C
+	BorderColor #4E5D6C
+	BorderThickness 2
+	StereotypeFontColor #EC7211
+}
+
+skinparam package {
+	BackgroundColor transparent
+  	BorderColor #4E5D6C
+	FontColor #4E5D6C
+	BorderThickness 2
+}
+
+skinparam folder {
+	BackgroundColor #eeeeee
+  	BorderColor #EC7211
+	FontColor #EC7211
+	BorderThickness 2
+}
+
+skinparam frame {
+	BackgroundColor #eeeeee
+  	BorderColor #0073bb
+	FontColor #0073bb
+	BorderThickness 2
+}
+
+skinparam state {
+			FontColor #FFF
+		BorderColor #EC7211
+		BackgroundColor #F18E3E-#EC7211
+	StartColor #0073bb
+	EndColor #0073bb
+	AttributeFontColor #4E5D6C
+	AttributeFontSize 11
+}
+
+skinparam queue {
+			FontColor #FFF
+		BorderColor #EC7211
+		BackgroundColor #F18E3E-#EC7211
+}
+
+skinparam card {
+	BackgroundColor #0073bb
+	BorderColor #005C96
+	FontColor #FFF
+}
+
+skinparam file {
+	BackgroundColor #eeeeee
+	BorderColor #abb6c2
+	FontColor #4E5D6C
+}
+
+skinparam stack {
+			FontColor #FFF
+		BorderColor #EC7211
+		BackgroundColor #F18E3E-#EC7211
+}
+
+
+skinparam map {
+			FontColor #FFF
+		BorderColor #EC7211
+		BackgroundColor #F18E3E-#EC7211
+}
+
+<style>
+wbsDiagram, mindmapDiagram {
+  root {
+    BackgroundColor transparent
+    FontColor #FFF
+    HyperLinkColor #0073bb
+    LineColor #BD5B0E
+    LineThickness 1
+    Margin 10
+    Padding 6
+    Shadowing 0.0
+  }
+  node {
+    		FontColor #FFF
+		BorderColor #EC7211
+		BackgroundColor #F18E3E-#EC7211
+    Padding 15
+    RoundCorner 20
+  }
+  caption {
+    LineThickness 0
+  }
+  footer {
+    LineThickness 0
+  }
+  groupHeader {
+    BackgroundColor #eeeeee
+    FontColor #0073bb
+    FontStyle bold
+  }
+  header {
+    LineThickness 0
+  }
+  referenceHeader {
+    BackgroundColor transparent
+    FontColor #4E5D6C
+    FontStyle bold
+  }
+  separator {
+    BackgroundColor #4E5D6C
+    FontColor transparent
+    FontStyle bold
+  }
+  title {
+	FontSize 20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor  ffffff-#eeeeee
+	FontColor #FFF
+	BorderColor #eeeeee
+  }
+}
+nwdiagDiagram {
+  network {
+    		FontColor #FFF
+		BorderColor #EC7211
+		BackgroundColor #F18E3E-#EC7211    
+    LineColor $PRIMARY_BG
+    LineThickness 1.0
+    FontColor #BD5B0E
+  }
+  server {
+    		FontColor #FFF
+		BorderColor #EC7211
+		BackgroundColor #F18E3E-#EC7211
+  }
+  arrow {
+    FontColor #BD5B0E
+    LineColor #BD5B0E
+  }
+  group {
+    BackGroundColor $LIGHT_BG
+    LineColor #8191A3
+    LineThickness 2.0
+    Margin 5
+    Padding 5
+  }
+}
+ganttDiagram {
+  task {
+    		FontColor #FFF
+		BorderColor #EC7211
+		BackgroundColor #F18E3E-#EC7211
+	LineColor $PRIMARY_BG
+    Margin 10
+    Padding 6
+  }
+  note {
+	FontColor #FFF
+	LineColor #005C96
+    BackGroundColor #0073bb
+  }
+  separator {
+	LineColor #eeeeee
+    BackGroundColor 		FontColor #4E5D6C
+		BorderColor #BEBEBE
+		BackgroundColor ffffff-#eeeeee
+    FontColor #4E5D6C
+  }
+  milestone {
+	FontColor #0073bb
+	FontSize 16
+	FontStyle italic
+	BackGroundColor $DIAMOND_BG
+	LineColor #BEBEBE
+  }
+  timeline {
+    BackgroundColor #eeeeee
+    FontColor #4E5D6C
+  }
+  closed {
+	BackgroundColor #BD5B0E
+	FontColor #FFF
+  }
+}
+</style>
+
+
+Title: Robo Chat Sequence Diagram 
+
+participant Client as C
+participant Server as S
+participant OtherClients as O
+database    Database    as db
+
+== New User Sequence ==
+hnote over O: Assumed:\n-UI Loaded\n-Connected to Server\n-Chat Log Displayed
+hnote over C: Load UI
+C -> S : WS Connection
+hnote over S: Add User to Bot List
+hnote over S: Broadcast #\nConnected Bots\nTo All Clients
+S - -> C: Broadcast Connected Bots
+hnote over C: Prompt Username
+hnote over C: Display Username
+hnote over C: Display # of Bots Connected
+C -> S : Emit Username
+hnote over S: Formulate DB Call
+S -> db: Is New Username?
+hnote over db: Search username in DB
+db -> S: Return True.\nIs New User
+hnote over S: Build New User\nMessage
+C -> S: API Call\nGet Chat Log
+hnote over S: Formulate DB Call
+S -> db: Request X Day's Chat Log
+hnote over db: Query Last X Day's\nChat Log
+db -> S: Return Last X Day's\n Chat Log
+S -> C: API Response w/ Chat Log
+hnote over C: Add Chat Log to UI
+S -> C: Emit New User Message
+hnote over C: Add New User\nMessage To UI
+
+== Existing User Sequence ==
+hnote over O: Assumed:\n-UI Loaded\n-Connected to Server\n-Chat Log Displayed
+hnote over C: Load UI
+C -> S : WS Connection
+hnote over S: Add User to Bot List
+S - -> C: Broadcast Connected Bots
+S - -> O: Broadcast Connected Bots
+hnote over O: Display # of Bots Connected
+hnote over C: Prompt Username
+hnote over C: Display Username
+hnote over C: Display # of Bots Connected
+C -> S : Emit Username
+hnote over S: Formulate DB Call
+S -> db: Is New Username?
+hnote over db: Search username in DB
+db -> S: Return False.\nNot New User
+hnote over S: Not a New user\nDo Nothing
+C -> S: API Call\nGet Chat Log
+hnote over S: Formulate DB Call
+S -> db: Request X Day's Chat Log
+hnote over db: Query Last X Day's\nChat Log
+db -> S: Return Last X Day's\n Chat Log
+S -> C: API Response w/ Chat Log (JSON)
+hnote over C: Add Chat Log to UI
+
+== Basic Message ==
+hnote over C: Submits Message
+hnote over C: Clear Message From Form
+hnote over C: Play Sound
+hnote over C: Adds Message to UI
+C -> S: Emits Chat Message Data
+hnote over S: Recieves Message Data
+S - -> O: Broadcast Message Data
+hnote over O: Add Message To UI
+hnote over O: Play Message
+
+== User Command: Help ==
+hnote over C: Submits help Command Message
+hnote over C: Clear Message From Form
+hnote over C: Adds Command Message to UI
+hnote over C: Parse Command Message
+hnote over C: Build help Message
+hnote over C: Add help Message UI
+
+== User Command: getXDayHistory ==
+hnote over C: Submits getXDayHistory Command Message
+hnote over C: Clear Message From Form
+hnote over C: Adds Command Message to UI
+hnote over C: Parse Command Message
+hnote over C: Build API Query
+C -> S: API Call
+hnote over S: Formulate DB Call
+S -> db: Get Last X Day's\nChat History
+hnote over C: Query Last X Day's\nChat History
+db -> S: Return Last X Day's\nChat History
+S -> C: API Response w/ Last X Day's History
+hnote over C: Download Messages (JSON)
+
+== User Activity Feedback: Preparing ==
+note left of C
+NOTE: Activities follow
+this sequence with all 
+clients simultaneously;
+building the displayed
+message appropriately.
+(i.e. Client 1 is preparing
+Client 2 is Typeing Client 3
+is etc.)
+end note
+hnote over C: Client 1 Clicks\nMessage Form
+C -> S : Emit Activity: Preparing
+
+S - -> O: Broadcast Client A\nActivity: Preparing
+hnote over O: Display "Client 1\nIs Preparing"\nIn User Activity\nFeedback Section
+hnote over C: Client 1 Clicks Off\nMessage Form
+C -> S : Emit Activity: "" (NULL)
+S - -> O: Broadcast Client 1\nActivity: "" (NULL)
+hnote over O: Remove User Activity\nFeedback Section\nFrom Display
+
+== User Activity Feedback: Composing ==
+hnote over C: Client 1 Starts Typing In\nMessage Form
+C -> S : Emit Activity: Composing
+S - -> O: Broadcast Client A\nActivity: Composing
+hnote over O: Display "Client 1\nIs Composing"\nIn User Activity\nFeedback Section
+hnote over C: Client 1 Stops Typing\nOr Submits Message
+C -> S : Emit Activity: "" (NULL)
+S - -> O: Broadcast Client 1\nActivity: "" (NULL)
+hnote over O: Remove User Activity\nFeedback Section\nFrom Display
+@enduml
+
+PlantUML version 1.2022.7beta2(Unknown compile time)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

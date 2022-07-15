@@ -1,0 +1,208 @@
+/* fun robot font */
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+body{
+    font-family: 'Press Start 2P', cursive;
+    display: grid;
+    place-items: center;
+    background-color: #ebebeb;
+}
+
+.title {
+    margin: 20px 0px;
+}
+
+.main {
+    border-top: 8px solid #dddddd;
+    border-right: 8px solid #dddddd;
+    border-left: 8px solid #dddddd;
+    border-bottom: 0px solid #dddddd;
+    border-radius: 24px 24px 0px 0px;
+    overflow: hidden;
+}
+
+.name {
+    display: flex;
+    font-size: 32px;
+    font-weight: 700;
+    padding: 8px 16px;
+    color: #7e7e7e;
+    background-color: #ebebeb;
+}
+
+.name-input {
+    font-size: 20px;
+    overflow-y: hidden;
+    overflow-x: hidden;
+    max-width: 370px;
+    max-height: 30px;
+    font-weight: 500;
+    color: #7e7e7e;
+    border: none;
+    margin: 0px 12px;
+    outline: none;
+    background-color: #ebebeb;
+}
+
+.chat-container {
+    display: flex;
+    flex-direction: column;
+    background-color: #f6f6f6;
+    width: 400px;
+    height: 400px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+.message-left, .message-right {
+    list-style: none;
+    padding: 80px, 20px;
+    margin: 20px;
+    max-width: 400px;
+    font-size: 11px;
+    word-wrap: break-word;
+}
+
+.message-left {
+    border-radius: 20px 20px 20px 0px;
+    align-self: flex-start;
+    background-color: lightgreen;
+    box-shadow: -2px 2px 4px grey;
+    color: #262525;
+}
+
+.message-right {
+    border-radius: 20px 20px 0px 20px;
+    align-self: flex-end;
+    background-color: rgb(17, 78, 103);
+    color: rgb(220, 220, 220);
+    box-shadow: 2px 2px 4px grey;
+}
+
+.message-left > p,
+.message-right > p {
+    margin: 12px;
+
+}
+
+.message-left > p > span,
+.message-right > p > span {
+    display: block;
+    font-style: italic;
+    font-size: 8px;
+    margin-top: 5px;
+}
+
+
+.mediaButton{
+    background-color: rgba(0, 255, 255, 0);
+    margin: -5px;
+    border: none;
+    cursor: pointer
+}
+
+.bButton{
+    background-color: rgba(0, 255, 255, 0);
+    margin: 0px;
+    border: none;
+    cursor: pointer;
+    font-size: 12px;
+}
+
+.user-activity {
+    font-style: italic;
+    font-size: 12px;
+    padding: 0px 16px 16px 16px;
+    color: #2d2d2d;
+    background-color: #f6f6f6;
+    text-align: center;
+}
+
+.user-input-container {
+    display: flex;
+    justify-content: space-between;
+    width: 400px;
+}
+
+.message-input {
+    flex-grow: 1;
+    height: 48px;
+    font-size: 14px;
+    border: none;
+    outline: none;
+    padding: 0px 12px;
+    background-color: #fff;
+}
+
+.send-button {
+    height: 48px;
+    font-size: 16px;
+    border: none;
+    padding: 0px 20px;
+    outline: none;
+    background-color: #fff;
+    cursor: pointer;
+}
+
+.v-divider {
+    height: 48px;
+    width: 2px;
+    background-color: #f6f6f6;
+}
+
+
+.slider-container {
+
+    border-top: 4px solid #dddddd;
+    border-right: 8px solid #dddddd;
+    border-left: 8px solid #dddddd;
+    border-bottom: 8px solid #dddddd;
+    border-radius: 0px 0px 24px 24px;
+    overflow: hidden;    
+    display: flex;
+    justify-content: space-between;
+    width: 416px;
+    background-color: #f4f4f4;
+}
+
+
+.slider {
+    padding-left: 10px;
+    font-size: 10px;
+    margin: 15px 0px;
+    color: #323131;
+}
+
+.slider > input {
+    width: 50%;
+}
+
+.v-divider-bottom {
+    height: 48px;
+    width: 2px;
+    background-color: #ffffff;
+}
+
+.speak-button {
+    font-family: 'Press Start 2P', cursive;
+    width:100px;
+    height: 48px;
+    font-size: 14px;
+    border: none;
+    padding: 0px 10px;
+    outline: none;
+    cursor: pointer;
+    background-color: #f4f4f4;
+}
+
+.bots-connected {
+    margin: 20px 0;
+    color: #7e7e7e;
+}

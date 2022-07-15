@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link href="/favicon.ico" type="image/x-icon" rel="icon" />
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css"/>
+    <script src="speakClient.js"></script>
+    <title>Robot Chat App</title>
+</head>
+<body>
+    <h1 class="title"> Robo Chat 🤖 </h1>
+
+    <audio id="audio"></audio>
+    <div class="main">
+        <div id="outer" class="container">
+            <h6 type="text" id="name-input" class="name-input">NAME INPUT</h6>
+        </div>
+        <!-- Where all message will fall -->
+        <ul class="chat-container" id="chat-container"></ul>
+        <form class="user-input-container" id="user-input-container">
+            <input type="text" name="message" id="message-input" class="message-input">
+            <div class="v-divider"></div>
+                <button class="send-button" type="submit">
+                    Send 🔼
+                </button>
+        </form>
+    </div>
+
+    <div class="slider-container">
+        <ul class = "sliders" id="sliders"></ul>
+            <div class="slider">
+                Speed:
+             <input type="range" id="voice-speed" min="5" max="300" value="158" step="1"/>
+            </div>
+        </ul>
+        <ul>
+            <div class="slider">
+                Pitch:
+                <input type="range" id="voice-pitch" min="0.1" max="100" value="20" step="1">
+            </div>
+        </ul>
+        <div class="v-divider-bottom"></div>
+        <button class="speak-button" type="test" id="speak-button" onclick="testSpeak()">
+            Test 🤖
+        </button>
+    </div>
+
+    <h3 class="bots-connected" id="bots-connected"></h3>
+
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="client.js"></script>
+</body>
+</html>

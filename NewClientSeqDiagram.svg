@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="1012px" preserveAspectRatio="none" style="width:551px;height:1012px;background:#DDDDDD;" version="1.1" viewBox="0 0 551 1012" width="551px" zoomAndPan="magnify"><defs/><g><rect fill="#DDDDDD" height="26.2969" id="_title" rx="3.5" ry="3.5" style="stroke:#00000000;stroke-width:1.0;" width="317" x="117" y="10"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="307" x="122" y="27.9951">New User Sequence Diagram w/ Server</text><line style="stroke:#454645;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="76" x2="76" y1="104.5938" y2="934.5781"/><line style="stroke:#454645;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="269" x2="269" y1="104.5938" y2="934.5781"/><line style="stroke:#454645;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="460.5" x2="460.5" y1="104.5938" y2="934.5781"/><rect fill="#FF6F61" height="30.2969" rx="3.5" ry="3.5" style="stroke:#454645;stroke-width:1.5;" width="87" x="33" y="73.2969"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="73" x="40" y="93.292">NewClient</text><rect fill="#FF6F61" height="30.2969" rx="3.5" ry="3.5" style="stroke:#454645;stroke-width:1.5;" width="87" x="33" y="933.5781"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="73" x="40" y="953.5732">NewClient</text><rect fill="#FF6F61" height="30.2969" rx="3.5" ry="3.5" style="stroke:#454645;stroke-width:1.5;" width="61" x="239" y="73.2969"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="47" x="246" y="93.292">Server</text><rect fill="#FF6F61" height="30.2969" rx="3.5" ry="3.5" style="stroke:#454645;stroke-width:1.5;" width="61" x="239" y="933.5781"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="47" x="246" y="953.5732">Server</text><text fill="#454645" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="68" x="423.5" y="101.292">Database</text><path d="M442.5,52.2969 C442.5,42.2969 460.5,42.2969 460.5,42.2969 C460.5,42.2969 478.5,42.2969 478.5,52.2969 L478.5,78.2969 C478.5,88.2969 460.5,88.2969 460.5,88.2969 C460.5,88.2969 442.5,88.2969 442.5,78.2969 L442.5,52.2969 " fill="#98DDDE" style="stroke:#454645;stroke-width:1.5;"/><path d="M442.5,52.2969 C442.5,62.2969 460.5,62.2969 460.5,62.2969 C460.5,62.2969 478.5,62.2969 478.5,52.2969 " fill="none" style="stroke:#454645;stroke-width:1.5;"/><text fill="#454645" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="68" x="423.5" y="946.5732">Database</text><path d="M442.5,959.875 C442.5,949.875 460.5,949.875 460.5,949.875 C460.5,949.875 478.5,949.875 478.5,959.875 L478.5,985.875 C478.5,995.875 460.5,995.875 460.5,995.875 C460.5,995.875 442.5,995.875 442.5,985.875 L442.5,959.875 " fill="#98DDDE" style="stroke:#454645;stroke-width:1.5;"/><path d="M442.5,959.875 C442.5,969.875 460.5,969.875 460.5,969.875 C460.5,969.875 478.5,969.875 478.5,959.875 " fill="none" style="stroke:#454645;stroke-width:1.5;"/><polygon fill="#90EE90" points="51,119.5938,102,119.5938,112,130.5938,102,142.5938,51,142.5938,41,130.5938,51,119.5938" style="stroke:#181818;stroke-width:1.0;"/><text fill="#454645" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="47" x="53" y="135.6606">Load UI</text><polygon fill="#454645" points="257.5,164.8594,267.5,168.8594,257.5,172.8594,261.5,168.8594" style="stroke:#454645;stroke-width:1.0;"/><line style="stroke:#454645;stroke-width:1.0;" x1="76.5" x2="263.5" y1="168.8594" y2="168.8594"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="97" x="83.5" y="163.7935">WS Connection</text><polygon fill="#90EE90" points="204,181.8594,334,181.8594,344,192.8594,334,204.8594,204,204.8594,194,192.8594,204,181.8594" style="stroke:#181818;stroke-width:1.0;"/><text fill="#454645" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="126" x="206" y="197.9263">Add User to Bot List</text><polygon fill="#90EE90" points="217,214.9922,322,214.9922,332,240.9922,322,267.9922,217,267.9922,207,240.9922,217,214.9922" style="stroke:#181818;stroke-width:1.0;"/><text fill="#454645" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="79" x="219" y="231.0591">Broadcast #</text><text fill="#454645" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="101" x="219" y="246.1919">Connected Bots</text><text fill="#454645" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="82" x="219" y="261.3247">To All Clients</text><polygon fill="#454645" points="87.5,290.5234,77.5,294.5234,87.5,298.5234,83.5,294.5234" style="stroke:#454645;stroke-width:1.0;"/><line style="stroke:#454645;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="81.5" x2="268.5" y1="294.5234" y2="294.5234"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="169" x="93.5" y="289.4575">Broadcast Connected Bots</text><polygon fill="#90EE90" points="16,307.5234,137,307.5234,147,318.5234,137,330.5234,16,330.5234,6,318.5234,16,307.5234" style="stroke:#181818;stroke-width:1.0;"/><text fill="#454645" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="117" x="18" y="323.5903">Prompt Username</text><polygon fill="#90EE90" points="16,340.6563,137,340.6563,147,351.6563,137,363.6563,16,363.6563,6,351.6563,16,340.6563" style="stroke:#181818;stroke-width:1.0;"/><text fill="#454645" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="117" x="18" y="356.7231">Display Username</text><polygon fill="#454645" points="257.5,385.9219,267.5,389.9219,257.5,393.9219,261.5,389.9219" style="stroke:#454645;stroke-width:1.0;"/><line style="stroke:#454645;stroke-width:1.0;" x1="76.5" x2="263.5" y1="389.9219" y2="389.9219"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="99" x="83.5" y="384.856">Emit Username</text><polygon fill="#90EE90" points="210,402.9219,328,402.9219,338,413.9219,328,425.9219,210,425.9219,200,413.9219,210,402.9219" style="stroke:#181818;stroke-width:1.0;"/><text fill="#454645" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="114" x="212" y="418.9888">Formulate DB Call</text><polygon fill="#454645" points="448.5,448.1875,458.5,452.1875,448.5,456.1875,452.5,452.1875" style="stroke:#454645;stroke-width:1.0;"/><line style="stroke:#454645;stroke-width:1.0;" x1="269.5" x2="454.5" y1="452.1875" y2="452.1875"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="119" x="276.5" y="447.1216">Is New Username?</text><polygon fill="#90EE90" points="383,465.1875,537,465.1875,547,476.1875,537,488.1875,383,488.1875,373,476.1875,383,465.1875" style="stroke:#181818;stroke-width:1.0;"/><text fill="#454645" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="150" x="385" y="481.2544">Search username in DB</text><polygon fill="#454645" points="280.5,525.5859,270.5,529.5859,280.5,533.5859,276.5,529.5859" style="stroke:#454645;stroke-width:1.0;"/><line style="stroke:#454645;stroke-width:1.0;" x1="274.5" x2="459.5" y1="529.5859" y2="529.5859"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="80" x="286.5" y="509.3872">Return True.</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="75" x="286.5" y="524.52">Is New User</text><polygon fill="#90EE90" points="220,542.5859,319,542.5859,329,561.5859,319,580.5859,220,580.5859,210,561.5859,220,542.5859" style="stroke:#181818;stroke-width:1.0;"/><text fill="#454645" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="95" x="222" y="558.6528">Build New User</text><text fill="#454645" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="56" x="222" y="573.7856">Message</text><polygon fill="#454645" points="257.5,618.1172,267.5,622.1172,257.5,626.1172,261.5,622.1172" style="stroke:#454645;stroke-width:1.0;"/><line style="stroke:#454645;stroke-width:1.0;" x1="76.5" x2="263.5" y1="622.1172" y2="622.1172"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="47" x="83.5" y="601.9185">API Call</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="84" x="83.5" y="617.0513">Get Chat Log</text><polygon fill="#90EE90" points="210,635.1172,328,635.1172,338,646.1172,328,658.1172,210,658.1172,200,646.1172,210,635.1172" style="stroke:#181818;stroke-width:1.0;"/><text fill="#454645" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="114" x="212" y="651.1841">Formulate DB Call</text><polygon fill="#454645" points="448.5,680.3828,458.5,684.3828,448.5,688.3828,452.5,684.3828" style="stroke:#454645;stroke-width:1.0;"/><line style="stroke:#454645;stroke-width:1.0;" x1="269.5" x2="454.5" y1="684.3828" y2="684.3828"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="167" x="276.5" y="679.3169">Request X Day's Chat Log</text><polygon fill="#90EE90" points="397,697.3828,524,697.3828,534,716.3828,524,735.3828,397,735.3828,387,716.3828,397,697.3828" style="stroke:#181818;stroke-width:1.0;"/><text fill="#454645" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="123" x="399" y="713.4497">Query Last X Day's</text><text fill="#454645" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="57" x="399" y="728.5825">Chat Log</text><polygon fill="#454645" points="280.5,772.9141,270.5,776.9141,280.5,780.9141,276.5,776.9141" style="stroke:#454645;stroke-width:1.0;"/><line style="stroke:#454645;stroke-width:1.0;" x1="274.5" x2="459.5" y1="776.9141" y2="776.9141"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="127" x="286.5" y="756.7153">Return Last X Day's</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="57" x="290.5" y="771.8481">Chat Log</text><polygon fill="#454645" points="87.5,802.0469,77.5,806.0469,87.5,810.0469,83.5,806.0469" style="stroke:#454645;stroke-width:1.0;"/><line style="stroke:#454645;stroke-width:1.0;" x1="81.5" x2="268.5" y1="806.0469" y2="806.0469"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="167" x="93.5" y="800.981">API Response w/ Chat Log</text><polygon fill="#90EE90" points="15,819.0469,138,819.0469,148,830.0469,138,842.0469,15,842.0469,5,830.0469,15,819.0469" style="stroke:#181818;stroke-width:1.0;"/><text fill="#454645" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="119" x="17" y="835.1138">Add Chat Log to UI</text><polygon fill="#454645" points="87.5,864.3125,77.5,868.3125,87.5,872.3125,83.5,868.3125" style="stroke:#454645;stroke-width:1.0;"/><line style="stroke:#454645;stroke-width:1.0;" x1="81.5" x2="268.5" y1="868.3125" y2="868.3125"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="154" x="93.5" y="863.2466">Emit New User Message</text><polygon fill="#90EE90" points="28,881.3125,124,881.3125,134,900.3125,124,919.3125,28,919.3125,18,900.3125,28,881.3125" style="stroke:#181818;stroke-width:1.0;"/><text fill="#454645" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="90" x="30" y="897.3794">Add New User</text><text fill="#454645" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="92" x="30" y="912.5122">Message To UI</text><!--MD5=[e7b7f0215f6dd421d8e4a76824d7b46e]
+@startuml
+!theme toy
+Title: New User Sequence Diagram w/ Server
+participant NewClient as C
+participant Server as S
+database    Database    as db
+hnote over C: Load UI
+C -> S : WS Connection
+hnote over S: Add User to Bot List
+hnote over S: Broadcast #\nConnected Bots\nTo All Clients
+S - -> C: Broadcast Connected Bots
+hnote over C: Prompt Username
+hnote over C: Display Username
+C -> S : Emit Username
+hnote over S: Formulate DB Call
+S -> db: Is New Username?
+hnote over db: Search username in DB
+db -> S: Return True.\nIs New User
+hnote over S: Build New User\nMessage
+C -> S: API Call\nGet Chat Log
+hnote over S: Formulate DB Call
+S -> db: Request X Day's Chat Log
+hnote over db: Query Last X Day's\nChat Log
+db -> S: Return Last X Day's\n Chat Log
+S -> C: API Response w/ Chat Log
+hnote over C: Add Chat Log to UI
+S -> C: Emit New User Message
+hnote over C: Add New User\nMessage To UI
+@enduml
+
+@startuml
+skinparam BackgroundColor DDDDDD
+skinparam shadowing false
+skinparam RoundCorner 7
+skinparam ArrowColor 454645
+skinparam FontColor 454645
+skinparam SequenceLifeLineBorderColor 454645
+skinparam SequenceGroupHeaderFontColor 454645
+skinparam SequenceGroupFontColor 454645
+skinparam SequenceGroupBorderColor 454645
+skinparam SequenceGroupBorderThickness 1
+
+skinparam sequenceDivider {
+    BorderColor 454645
+    BorderThickness 1
+    FontColor 454645
+}
+
+skinparam participant {
+    BackgroundColor FF6F61
+    BorderColor 454645
+    FontColor White
+    BorderThickness 1.5
+}
+
+skinparam database {
+    BackgroundColor 98DDDE
+    BorderColor 454645
+    FontColor 454645
+}
+
+skinparam entity {
+    BackgroundColor FFDA29
+    BorderColor 454645
+    FontColor 454645
+}
+
+skinparam note {
+    BackgroundColor LightGreen
+    BorderColor 454645
+    FontColor 454645
+    BorderThickness 1
+}
+
+skinparam actor {
+    BackgroundColor 454645
+    BorderColor 454645
+    FontColor 454645
+}
+
+skinparam boundary {
+    BackgroundColor FFDA29
+    BorderColor 454645
+    FontColor 454645
+}
+
+skinparam control {
+    BackgroundColor FFDA29
+    BorderColor 454645
+    FontColor 454645
+}
+
+skinparam collections {
+    BackgroundColor FF6F61
+    BorderColor 454645
+    FontColor 454645
+    BorderThickness 1.5
+}
+
+skinparam queue {
+    BackgroundColor FF6F61
+    BorderColor 454645
+    FontColor FFF
+    BorderThickness 1.5
+}
+Title: New User Sequence Diagram w/ Server
+participant NewClient as C
+participant Server as S
+database    Database    as db
+hnote over C: Load UI
+C -> S : WS Connection
+hnote over S: Add User to Bot List
+hnote over S: Broadcast #\nConnected Bots\nTo All Clients
+S - -> C: Broadcast Connected Bots
+hnote over C: Prompt Username
+hnote over C: Display Username
+C -> S : Emit Username
+hnote over S: Formulate DB Call
+S -> db: Is New Username?
+hnote over db: Search username in DB
+db -> S: Return True.\nIs New User
+hnote over S: Build New User\nMessage
+C -> S: API Call\nGet Chat Log
+hnote over S: Formulate DB Call
+S -> db: Request X Day's Chat Log
+hnote over db: Query Last X Day's\nChat Log
+db -> S: Return Last X Day's\n Chat Log
+S -> C: API Response w/ Chat Log
+hnote over C: Add Chat Log to UI
+S -> C: Emit New User Message
+hnote over C: Add New User\nMessage To UI
+@enduml
+
+PlantUML version 1.2022.7beta2(Unknown compile time)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

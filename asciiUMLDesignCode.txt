@@ -1,0 +1,125 @@
+@startuml
+!theme cerulean
+
+Title: Robo Chat Sequence Diagram 
+
+participant Client as C
+participant Server as S
+participant OtherClients as O
+database    Database    as db
+
+== New User Sequence ==
+hnote over O: Assumed:\n-UI Loaded\n-Connected to Server\n-Chat Log Displayed
+hnote over C: Load UI
+C -> S : WS Connection
+hnote over S: Add User to Bot List
+hnote over S: Broadcast #\nConnected Bots\nTo All Clients
+S --> C: Broadcast Connected Bots
+hnote over C: Prompt Username
+hnote over C: Display Username
+hnote over C: Display # of Bots Connected
+C -> S : Emit Username
+hnote over S: Formulate DB Call
+S -> db: Is New Username?
+hnote over db: Search username in DB
+db -> S: Return True.\nIs New User
+hnote over S: Build New User\nMessage
+C -> S: API Call\nGet Chat Log
+hnote over S: Formulate DB Call
+S -> db: Request X Day's Chat Log
+hnote over db: Query Last X Day's\nChat Log
+db -> S: Return Last X Day's\n Chat Log
+S -> C: API Response w/ Chat Log
+hnote over C: Add Chat Log to UI
+S -> C: Emit New User Message
+hnote over C: Add New User\nMessage To UI
+
+== Existing User Sequence ==
+hnote over O: Assumed:\n-UI Loaded\n-Connected to Server\n-Chat Log Displayed
+hnote over C: Load UI
+C -> S : WS Connection
+hnote over S: Add User to Bot List
+S --> C: Broadcast Connected Bots
+S --> O: Broadcast Connected Bots
+hnote over O: Display # of Bots Connected
+hnote over C: Prompt Username
+hnote over C: Display Username
+hnote over C: Display # of Bots Connected
+C -> S : Emit Username
+hnote over S: Formulate DB Call
+S -> db: Is New Username?
+hnote over db: Search username in DB
+db -> S: Return False.\nNot New User
+hnote over S: Not a New user\nDo Nothing
+C -> S: API Call\nGet Chat Log
+hnote over S: Formulate DB Call
+S -> db: Request X Day's Chat Log
+hnote over db: Query Last X Day's\nChat Log
+db -> S: Return Last X Day's\n Chat Log
+S -> C: API Response w/ Chat Log (JSON)
+hnote over C: Add Chat Log to UI
+
+== Basic Message ==
+hnote over C: Submits Message
+hnote over C: Clear Message From Form
+hnote over C: Play Sound
+hnote over C: Adds Message to UI
+C -> S: Emits Chat Message Data
+hnote over S: Recieves Message Data
+S --> O: Broadcast Message Data
+hnote over O: Add Message To UI
+hnote over O: Play Message
+
+== User Command: Help ==
+hnote over C: Submits help Command Message
+hnote over C: Clear Message From Form
+hnote over C: Adds Command Message to UI
+hnote over C: Parse Command Message
+hnote over C: Build help Message
+hnote over C: Add help Message UI
+
+== User Command: getXDayHistory ==
+hnote over C: Submits getXDayHistory Command Message
+hnote over C: Clear Message From Form
+hnote over C: Adds Command Message to UI
+hnote over C: Parse Command Message
+hnote over C: Build API Query
+C -> S: API Call
+hnote over S: Formulate DB Call
+S -> db: Get Last X Day's\nChat History
+hnote over C: Query Last X Day's\nChat History
+db -> S: Return Last X Day's\nChat History
+S -> C: API Response w/ Last X Day's History
+hnote over C: Download Messages (JSON)
+
+== User Activity Feedback: Preparing ==
+note left of C
+NOTE: Activities follow
+this sequence with all 
+clients simultaneously;
+building the displayed
+message appropriately.
+(i.e. Client 1 is preparing
+Client 2 is Typeing Client 3
+is etc.)
+end note
+hnote over C: Client 1 Clicks\nMessage Form
+C -> S : Emit Activity: Preparing
+
+S --> O: Broadcast Client A\nActivity: Preparing
+hnote over O: Display "Client 1\nIs Preparing"\nIn User Activity\nFeedback Section
+hnote over C: Client 1 Clicks Off\nMessage Form
+C -> S : Emit Activity: "" (NULL)
+S --> O: Broadcast Client 1\nActivity: "" (NULL)
+hnote over O: Remove User Activity\nFeedback Section\nFrom Display
+
+== User Activity Feedback: Composing ==
+hnote over C: Client 1 Starts Typing In\nMessage Form
+C -> S : Emit Activity: Composing
+S --> O: Broadcast Client A\nActivity: Composing
+hnote over O: Display "Client 1\nIs Composing"\nIn User Activity\nFeedback Section
+hnote over C: Client 1 Stops Typing\nOr Submits Message
+C -> S : Emit Activity: "" (NULL)
+S --> O: Broadcast Client 1\nActivity: "" (NULL)
+hnote over O: Remove User Activity\nFeedback Section\nFrom Display
+@enduml
