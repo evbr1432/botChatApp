@@ -1,12 +1,15 @@
-FROM node:lts-alpine
+FROM node:lts-apline
+
 WORKDIR /usr/src/app
-COPY public/package.json ./
-RUN ls -l
+
+COPY package*.json ./
+
 RUN npm install
-COPY public ./
-RUN ls-l
-RUN npm run build
-COPY public/client.js dist/client.js
-WORKDIR /usr/src/app/dist
-EXPOSE 8080
-CMD [ "node", "client.js"]
+
+COPY ./public ./
+
+RUN ls -l
+
+EXPOSE 4000
+
+CMD ("npm", "run", "prod")
