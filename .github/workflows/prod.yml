@@ -27,7 +27,7 @@ jobs:
     - name: Build and push Docker image
       uses: docker/build-push-action@v3
       with:
-        file: botChatApp/Dockerfile
+        file: Dockerfile
         tags: guppy285/botchatapp-back:latest
 
   build-and-deploy-front:
