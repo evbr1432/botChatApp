@@ -27,7 +27,6 @@ jobs:
     - name: Build and push Docker image
       uses: docker/build-push-action@v3
       with:
-        context: .
         repository: guppy285/botchatapp-back
         dockerfile: botChatApp/Dockerfile
         tags: latest
@@ -50,7 +49,6 @@ jobs:
     - name: Build and push Docker image
       uses: docker/build-push-action@v3
       with:
-        context: .
         repository: guppy285/botchatapp-front
         dockerfile: public/Dockerfile
         tags: latest
