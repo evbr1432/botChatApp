@@ -10,7 +10,7 @@ const { getEnvironmentData } = require('worker_threads')
 //Server setup
 //const server = require('http').Server(app)
 const server = http.createServer(app)
-const PORT = 4000
+const PORT = 5000
 //Socket IO setup 
 const io = require('socket.io')(server)
 //Database init
