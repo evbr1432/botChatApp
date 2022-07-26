@@ -28,6 +28,7 @@ jobs:
       uses: docker/build-push-action@v3
       with:
         file: Dockerfile
+        push: true
         tags: guppy285/botchatapp-back:latest
 
   build-and-deploy-front:
@@ -49,4 +50,5 @@ jobs:
       uses: docker/build-push-action@v3
       with:
         file: public/Dockerfile
+        push: true
         tags: guppy285/botchatapp-front:latest
