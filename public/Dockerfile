@@ -13,7 +13,7 @@ RUN ls -l
 
 #Might be useful for testing later
 #RUN npm run build
-COPY  ./nodeServer.js ./dist/nodeServer.js
+COPY  nodeServer.js dist/nodeServer.js
 WORKDIR /usr/src/app/dist
 
 EXPOSE 8080
