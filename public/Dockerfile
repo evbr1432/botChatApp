@@ -8,7 +8,7 @@ RUN npm install
 
 COPY . ./
 
-CMD ls
+CMD ls -la
 
 #Might be useful for testing later
 #RUN npm run build
