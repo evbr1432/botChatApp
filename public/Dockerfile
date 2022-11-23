@@ -1,7 +1,7 @@
 FROM node:lts-alpine
 WORKDIR /usr/src/app
 COPY package*.json ./
-#ENTRYPOINT ["tail", "-f", "/dev/null"]
+ENTRYPOINT ["tail", "-f", "/dev/null"]
 RUN ls -l 
 
 RUN npm install
