@@ -13,7 +13,7 @@ CMD ls
 #Might be useful for testing later
 #RUN npm run build
 #COPY  public/nodeServer.js dist/nodeServer.js
-#WORKDIR /usr/src/app/dist
+WORKDIR /usr/src/app/public
 
 EXPOSE 8080
 
