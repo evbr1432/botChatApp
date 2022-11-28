@@ -77,7 +77,7 @@ function chatLog() {
 
 //API call to the server (returns DB data in JSON)
 async function getData(period) {
-    const response = await fetch(`/api?period=${period}`);
+    const response = await fetch(`http://botchatapp/api?period=${period}`);
     const data = await response.json();
     //console.log(data)
     return data
