@@ -1,26 +1,14 @@
 version: "3"
 services:
   app:
-    container_name: botchatapp-front
-    image: index.docker.io/guppy285/botchatapp-front:latest
+    container_name: botchatapp-full
+    image: index.docker.io/guppy285/botchatapp-full:latest
     env_file:
       - .env.front
     networks:
       - local_net
-    depends_on:
-      - api
     ports:
       - "8080:8080"
-  api:
-    container_name: botchatapp-back
-    image: index.docker.io/guppy285/botchatapp-back:latest
-    env_file:
-      - .env.back
-      - .env.db
-    networks:
-      - local_net
-    ports:
-      - "5000:5000"
   watchtower:
     image: containrrr/watchtower
     volumes:
