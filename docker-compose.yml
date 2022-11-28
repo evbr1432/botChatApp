@@ -3,8 +3,6 @@ services:
   app:
     container_name: botchatapp-full
     image: index.docker.io/guppy285/botchatapp-full:latest
-    env_file:
-      - .env.front
     networks:
       - local_net
     ports:
