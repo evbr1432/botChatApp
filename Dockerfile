@@ -21,4 +21,4 @@ RUN ls -l
 EXPOSE 5000
 #CMD ["node", "nodeServer.js"]
 
-CMD ["npm", "run", "prod"]
+ENTRYPOINT ["npm", "run", "prod"]
