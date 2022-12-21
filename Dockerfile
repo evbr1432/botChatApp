@@ -16,11 +16,9 @@ RUN apk add gcompat
 
 RUN ls -l
 
-#Back
-CMD ["npm", "run", "dev"]
-
 #Front
-WORKDIR /usr/src/app/public
-EXPOSE 8080
-CMD ["node", "nodeServer.js"]
+#WORKDIR /usr/src/app/public
+EXPOSE 5000
+#CMD ["node", "nodeServer.js"]
 
+CMD ["npm", "run", "prod"]
