@@ -77,11 +77,11 @@ function chatLog() {
 
 //API call to the server (returns DB data in JSON)
 async function getData(period) {
-    const response = await fetch(`http://botchatapp/api?period=${period}`);
-    const data = await response.json();
-    //console.log(data)
-    return data
-}
+        const response = await fetch(`/api?period=${period}`);
+        const data = await response.json();
+        //console.log(data)
+        return data
+    }
 
 //lets user hear what they've typed in the voice set by sliders
 function testSpeak() {
