@@ -36,7 +36,7 @@ io.on('connect', onConnected)
 //FIXME: Error checking? 
 server.listen(PORT, () => console.log('Listening on port '+ PORT))
 //API call to get chat history (needed to load old message when returning)
-app.get('http://botchatapp/api', (request, response) => {
+app.get('/api', (request, response) => {
     let period=request.query.period
     //console.log(period)
     const daysAgoMsecs = convertPeriod(period)
