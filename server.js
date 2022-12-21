@@ -27,7 +27,7 @@ app.use(express.json({ limit: '1mb'}))
 app.use(express.static(path.join(__dirname, "public")))
 
 //setup db and load
-const database = new Datastore('database.db');
+const database = new Datastore('database/database.db');
 database.loadDatabase();
 
 //Socket connection check
