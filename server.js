@@ -15,7 +15,6 @@ const PORT = 5000
 const io = require('socket.io')(server)
 //Database init
 const Datastore = require('nedb')
-//FIXME: I wish to set this once
 const adminUser = "Admin"
 //+ forces unix timestamp
 let unixTimeNow = +new Date();

@@ -3,15 +3,17 @@ services:
   app:
     container_name: botchatapp-full
     image: index.docker.io/guppy285/botchatapp-full:latest
+    #sets host target and container target
+    volumes:
+      - /home/ubuntu/database:/usr/src/app/database
     networks:
       - local_net
     ports:
-      - "8080:8080"
+      - "5000:5000"
   watchtower:
     image: containrrr/watchtower
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock
-      - $HOME/.docker/config.json:/config.json
     command: --interval 30
 networks:
   local_net:
