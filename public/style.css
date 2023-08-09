@@ -75,15 +75,24 @@ body{
 }
 .menu__item {
     display: block;
-    padding: 12px 24px;
+    padding: 24px 24px;
     color: #333;
-    font-size: 20px;
+    font-size: 25px;
     font-weight: 600;
     text-decoration: none;
-    transition-duration: .25s;
+    transition-duration: .5s;
 }
 .menu__item:hover {
     background-color: #CFD8DC;
+}
+.menu__item-currentPage {
+    display: block;
+    padding: 24px 24px;
+    color:#CFD8DC;
+    font-size: 25px;
+    font-weight: 600;
+    text-decoration: none;
+    transition-duration: .5s;
 }
 
 

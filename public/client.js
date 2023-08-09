@@ -39,9 +39,10 @@ speedSlider.oninput = function () {
 }
 
 function getUserName() {
-    let username = prompt("Please Enter a Username", "Your Name")
-    if (username == null){
-        username = prompt("Please Enter a Username", "Your Name")
+    let username = prompt(" Welcome To Bot Chat App. \n Please Enter a Username", "Your Name")
+    while (username == null){
+        username = prompt(" Please Enter a Username!", "Your Name")
+        
     }
     //Server will check if this is a new user
     socket.emit('username', username)
