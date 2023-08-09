@@ -35,7 +35,6 @@ pitchSlider.oninput = function () {
     pitch = pitchSlider.value
 }
 speedSlider.oninput = function () {
-    speed = speedSlider.value
 }
 
 function getUserName() {
@@ -122,6 +121,7 @@ function sendMessage() {
         //This is not a command message, send it to the server
         //console.log(data)
         socket.emit('message', data)
+        playUIMessage(data.message,data.pitch,data.speed)
     }
     else{
         //This is a command, don't send to others
